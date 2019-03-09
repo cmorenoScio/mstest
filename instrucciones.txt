@@ -1,0 +1,2 @@
+Las rutas para acceder a la creacion y autenticacion de usuarios es users/register y users/authenticate
+La ruta para acceder a las peliculas es /movies
